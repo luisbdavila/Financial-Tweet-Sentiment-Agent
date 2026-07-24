@@ -72,6 +72,3 @@ DEEPSEEK_API_KEY=your_deepseek_api_key_here
 OPENAI_API_BASE=[https://api.deepseek.com/v1](https://api.deepseek.com/v1)
 OPENAI_MODEL=deepseek-chat
 ```
-# Start interactive CLI session
-chat()
-👥 Authors (Group 10 - NOVA IMS)  Alexander Batista - [20250419]  Mehmet Karaca - [20250344]  Luís Mendes - [20221949]  Verónica Mendes - [20221945] 
